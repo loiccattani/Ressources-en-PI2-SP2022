@@ -12,8 +12,8 @@ Il s'agit d'un document vivant, il sera maintenu à jour et complété tout au l
 
 ## Logiciels
 
-- [VS Code](https://code.visualstudio.com/)
-- [GitHub Desktop](https://desktop.github.com/)
+- [VS Code](https://code.visualstudio.com/) (Editeur de code)
+- [GitHub Desktop](https://desktop.github.com/) (Contrôle de version et collaboration)
 
 ### Terminal
 
@@ -22,7 +22,7 @@ Il s'agit d'un document vivant, il sera maintenu à jour et complété tout au l
 
 ## Meteor
 
-- [Meteor](https://www.meteor.com/)
+- [Homepage Meteor](https://www.meteor.com/)
 - [Installer Meteor](https://www.meteor.com/developers/install)
 - [Meteor Blaze Tutorial](https://blaze-tutorial.meteor.com/)
 - [Documentation Meteor](https://docs.meteor.com/#/full/)
