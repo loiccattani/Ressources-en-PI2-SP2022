@@ -24,7 +24,7 @@ Il s'agit d'un document vivant, il sera maintenu à jour et complété tout au l
 
 - [Meteor](https://www.meteor.com/)
 - [Installer Meteor](https://www.meteor.com/developers/install)
-- [Meteor Blaze Tutorial](https://blaze-tutorial.meteor.com/) (en)
+- [Meteor Blaze Tutorial](https://blaze-tutorial.meteor.com/)
 - [Documentation Meteor](https://docs.meteor.com/#/full/)
 - [Documentation Blaze](http://blazejs.org/guide/introduction.html)
 - [Atmosphere](https://atmospherejs.com/) Bibliothèque de paquets Meteor
