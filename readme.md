@@ -33,3 +33,8 @@ Il s'agit d'un document vivant, il sera maintenu à jour et complété tout au l
 ## Ressources UI/UX
 
 - [Bootstrap 5](https://getbootstrap.com/)
+
+## Markdown
+
+- [Markdown Documentation](https://www.markdownguide.org/basic-syntax/)
+- [GitHub Markdown Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
