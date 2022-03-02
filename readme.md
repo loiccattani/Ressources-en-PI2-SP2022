@@ -24,6 +24,7 @@ Il s'agit d'un document vivant, il sera maintenu à jour et complété tout au l
 
 - [Homepage Meteor](https://www.meteor.com/)
 - [Installer Meteor](https://www.meteor.com/developers/install)
+  - [Prérequis](https://docs.meteor.com/install.html#prereqs)
 - [Meteor Blaze Tutorial](https://blaze-tutorial.meteor.com/)
 - [Documentation Meteor](https://docs.meteor.com/#/full/)
 - [Documentation Blaze](http://blazejs.org/guide/introduction.html)
