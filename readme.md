@@ -29,7 +29,30 @@ Il s'agit d'un document vivant, il sera maintenu à jour et complété tout au l
 - [Documentation Meteor](https://docs.meteor.com/#/full/)
 - [Documentation Blaze](http://blazejs.org/guide/introduction.html)
 - [Atmosphere](https://atmospherejs.com/) Bibliothèque de paquets Meteor
-- [Code Style & ESLint](https://guide.meteor.com/code-style.html)
+
+## Code Style et ESLint
+Guide Meteor : [Code Style & ESLint](https://guide.meteor.com/code-style.html)  
+Suit le style de codage de AirBnB : [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+Pour une intégration avec VS Code, installer d'abord l'extension "vscode-eslint".
+
+### Comment activer ESLint pour un projet Meteor avec Blaze ?
+1. Accédez au dossier de votre projet via le terminal (Ex. : `cd code/monProjet/`)
+2. Installez les paquets npm : `meteor npm install --save-dev @babel/eslint-parser eslint eslint-config-airbnb eslint-import-resolver-meteor eslint-plugin-import eslint-plugin-meteor`
+4. Créer un fichier `eslintrc.json` avec ce contenu :
+    ```js
+      {
+        "plugins": ["meteor"],
+        "extends": ["eslint:recommended", "plugin:meteor/recommended"],
+        "parserOptions": {
+          "ecmaVersion": 2020
+        }
+      }
+    ```
+
+Avec l'extension "vscode-eslint", l'intégration avec VS Code est prête.
+
+Si vous souhaitez lancer ESLint séparément via le terminal, lancez la commandde `eslint .`
 
 ## Ressources UI/UX
 
