@@ -42,7 +42,7 @@ Pour une intégration avec VS Code, installer d'abord l'extension "vscode-eslint
 ```
 meteor npm install --save-dev @babel/eslint-parser eslint eslint-config-airbnb eslint-import-resolver-meteor eslint-plugin-import eslint-plugin-meteor
 ```
-3. Créer un fichier `eslintrc.json` avec ce contenu :
+3. Créer un fichier `.eslintrc.json` avec ce contenu :
 ```js
 {
   "plugins": ["meteor"],
