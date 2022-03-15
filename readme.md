@@ -38,17 +38,20 @@ Pour une intégration avec VS Code, installer d'abord l'extension "vscode-eslint
 
 ### Comment activer ESLint pour un projet Meteor avec Blaze ?
 1. Accédez au dossier de votre projet via le terminal (Ex. : `cd code/monProjet/`)
-2. Installez les paquets npm : `meteor npm install --save-dev @babel/eslint-parser eslint eslint-config-airbnb eslint-import-resolver-meteor eslint-plugin-import eslint-plugin-meteor`
-4. Créer un fichier `eslintrc.json` avec ce contenu :
-    ```js
-      {
-        "plugins": ["meteor"],
-        "extends": ["eslint:recommended", "plugin:meteor/recommended"],
-        "parserOptions": {
-          "ecmaVersion": 2020
-        }
-      }
-    ```
+2. Installez les paquets npm :
+```
+meteor npm install --save-dev @babel/eslint-parser eslint eslint-config-airbnb eslint-import-resolver-meteor eslint-plugin-import eslint-plugin-meteor
+```
+3. Créer un fichier `eslintrc.json` avec ce contenu :
+```js
+{
+  "plugins": ["meteor"],
+  "extends": ["eslint:recommended", "plugin:meteor/recommended"],
+  "parserOptions": {
+    "ecmaVersion": 2020
+  }
+}
+```
 
 Avec l'extension "vscode-eslint", l'intégration avec VS Code est prête.
 
