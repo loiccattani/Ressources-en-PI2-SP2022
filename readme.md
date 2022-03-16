@@ -32,7 +32,7 @@ Il s'agit d'un document vivant, il sera maintenu à jour et complété tout au l
 
 ## Code Style et ESLint
 Guide Meteor : [Code Style & ESLint](https://guide.meteor.com/code-style.html)  
-Suit le style de codage de AirBnB : [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+Suit le style de codage de Airbnb : [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 Pour une intégration avec VS Code, installer d'abord l'extension "ESLint".
 
