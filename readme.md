@@ -34,7 +34,7 @@ Il s'agit d'un document vivant, il sera maintenu à jour et complété tout au l
 Guide Meteor : [Code Style & ESLint](https://guide.meteor.com/code-style.html)  
 Suit le style de codage de AirBnB : [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-Pour une intégration avec VS Code, installer d'abord l'extension "vscode-eslint".
+Pour une intégration avec VS Code, installer d'abord l'extension "ESLint".
 
 ### Comment activer ESLint pour un projet Meteor avec Blaze ?
 1. Accédez au dossier de votre projet via le terminal (Ex. : `cd code/monProjet/`)
@@ -53,7 +53,7 @@ meteor npm install --save-dev @babel/eslint-parser eslint eslint-config-airbnb e
 }
 ```
 
-Avec l'extension "vscode-eslint", l'intégration avec VS Code est prête.
+Avec l'extension "ESLint", l'intégration avec VS Code est prête.
 
 Si vous souhaitez lancer ESLint séparément via le terminal, lancez la commandde `eslint .`
 
