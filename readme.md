@@ -57,6 +57,15 @@ Avec l'extension "ESLint", l'intégration avec VS Code est prête.
 
 Si vous souhaitez lancer ESLint séparément via le terminal, lancez la commandde `eslint .`
 
+## MongoDB et JSON
+
+- [Présentation de JSON - json.org](https://www.json.org/json-fr.html)
+- [MongoDB - Getting Started](https://docs.mongodb.com/manual/tutorial/getting-started/)
+- [MongoDB - Query and Write Operation Commands (CRUD)](https://docs.mongodb.com/manual/reference/command/nav-crud/)
+- [MongoDB - Query and Projection Operators](https://docs.mongodb.com/manual/reference/operator/query/)
+- [MongoDb - Update Operators](https://docs.mongodb.com/manual/reference/operator/update/)
+- [Documentation de MongoDB dans Meteor : Collections](https://docs.meteor.com/api/collections.html)
+
 ## Ressources UI/UX
 
 - [Bootstrap 5](https://getbootstrap.com/)
