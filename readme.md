@@ -66,6 +66,14 @@ Si vous souhaitez lancer ESLint séparément via le terminal, lancez la commandd
 - [MongoDb - Update Operators](https://docs.mongodb.com/manual/reference/operator/update/)
 - [Documentation de MongoDB dans Meteor : Collections](https://docs.meteor.com/api/collections.html)
 
+## Routes : FlowRouter
+
+    meteor add ostrio:flow-router-extra
+
+- [FlowRouter sur GitHub](https://github.com/VeliovGroup/flow-router/)
+- [Guide de démarrage rapide](https://github.com/VeliovGroup/flow-router/blob/master/docs/quick-start.md)
+- [Toute la documentation de FlowRouter sur une page](https://github.com/VeliovGroup/flow-router/blob/master/docs/full.md)
+
 ## Ressources UI/UX
 
 - [Bootstrap 5](https://getbootstrap.com/)
